@@ -7,5 +7,7 @@ int main(){
     switch(n) {
         case 1:
         mid_marks_calculate();
+        case 2:
+        //weekly_mark_calculate();
 }
 }
