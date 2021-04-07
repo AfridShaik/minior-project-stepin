@@ -8,4 +8,4 @@ int mid_marks_calculate(){
     sum = (mid1*0.4)+(mid2*0.4)+(mid3*0.4);
     mid_internal_marks = sum * 0.6;
     printf("The Mid Internal Marks are %d",mid_internal_marks);
-    }
+}
