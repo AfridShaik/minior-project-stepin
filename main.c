@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include</home/afrid/Documents/minior-project-stepin/funtion.h>
+#include<C:\Users\afrid\OneDrive\Documents\minior project\funtion.h>
 int main(){
     int n;
     printf("Select An option\n1 - Mid Marks\n2 - Internal Marks\n3 - Semister Examinations\n");
@@ -7,7 +7,9 @@ int main(){
     switch(n) {
         case 1:
         mid_marks_calculate();
+        break;
         case 2:
         weekly_mark_calculate();
+        return main();
 }
 }

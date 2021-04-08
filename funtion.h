@@ -3,4 +3,6 @@
 
 int mid_marks_calculate();
 
+int weekly_mark_calculate();
+
 #endif 
